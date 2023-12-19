@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
+  },
+  "client": [
+    {
+      "client_info": {},
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "000000000000-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "000000000000-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.vsolution.flutter_app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

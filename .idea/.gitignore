@@ -1,0 +1,5 @@
+*
+!.gitignore
+!flutter.iml
+!modules.xml
+!vcs.xml

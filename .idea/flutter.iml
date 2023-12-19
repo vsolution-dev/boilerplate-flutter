@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera_avfoundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera_avfoundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera_avfoundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera_avfoundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera_avfoundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/camera_avfoundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/file_picker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/file_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/file_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/file_picker/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/file_picker/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/file_picker/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_analytics/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_analytics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_analytics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_analytics/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_analytics/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_analytics/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_crashlytics/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_crashlytics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_crashlytics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_crashlytics/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_crashlytics/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_crashlytics/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_dynamic_links/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_dynamic_links/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_dynamic_links/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_dynamic_links/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_dynamic_links/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_dynamic_links/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_messaging/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_messaging/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_messaging/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_messaging/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_messaging/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_messaging/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/google_sign_in_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/google_sign_in_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/google_sign_in_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/google_sign_in_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/google_sign_in_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/google_sign_in_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/share_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/share_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/share_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/share_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/share_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/share_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/shared_preferences_foundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/shared_preferences_foundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/shared_preferences_foundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/shared_preferences_foundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/shared_preferences_foundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/shared_preferences_foundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/sign_in_with_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/sign_in_with_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/sign_in_with_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/sign_in_with_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/sign_in_with_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/sign_in_with_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/url_launcher_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/url_launcher_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/url_launcher_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/url_launcher_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/url_launcher_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/url_launcher_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/video_player_avfoundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/video_player_avfoundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/video_player_avfoundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/video_player_avfoundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/video_player_avfoundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/video_player_avfoundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/webview_flutter_wkwebview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/webview_flutter_wkwebview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/webview_flutter_wkwebview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/webview_flutter_wkwebview/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
